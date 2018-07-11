@@ -2,7 +2,7 @@
 Webscraper
 ----------
 
-Template for web-scraping PDF documentsself.
+Template for web-scraping PDF documents.
 UC Berkeley's EECS70 Notes is given as an example.
 
 Author
